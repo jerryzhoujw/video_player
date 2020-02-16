@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "98A3C30ABC97D592882929FAF5EFB935A32282D9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ECD0A59EC88E1BC7C473949BACEA86800ADECCFD" : 0,
+    "98A3C30ABC97D592882929FAF5EFB935A32282D9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "604EFFD4-6CB1-4A80-8B9C-06DAADCDF893",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ECD0A59EC88E1BC7C473949BACEA86800ADECCFD" : "..\/sdk\/flutter",
+    "98A3C30ABC97D592882929FAF5EFB935A32282D9" : "plugins\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Runner",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "packages\/video_player\/video_player\/example\/ios\/Runner.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jerryzhoujw\/plugins",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "98A3C30ABC97D592882929FAF5EFB935A32282D9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/flutter\/flutter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ECD0A59EC88E1BC7C473949BACEA86800ADECCFD"
+    }
+  ]
+}
